@@ -69,7 +69,7 @@ map <C-h> <C-W>h
 map <C-l> <C-W>l
 " file tree toggle
 map <C-n> :Explore<CR>
-map <C-o> :Vexplore .<CR>
+map <C-o> :Vexplore<CR>
 " tabularize
 map <F7> :tabN<CR>
 map <F8> :tabn<CR>
